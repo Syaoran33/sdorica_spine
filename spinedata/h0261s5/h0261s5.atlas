@@ -1,0 +1,279 @@
+
+h0261s5.png
+size: 1009,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 952, 522
+  size: 129, 52
+  orig: 129, 52
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: false
+  xy: 834, 666
+  size: 175, 110
+  orig: 175, 110
+  offset: 0, 0
+  index: -1
+belt_deco1
+  rotate: true
+  xy: 951, 417
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+belt_deco2
+  rotate: true
+  xy: 929, 147
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 16
+  size: 145, 151
+  orig: 145, 151
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: false
+  xy: 789, 791
+  size: 154, 218
+  orig: 154, 218
+  offset: 0, 0
+  index: -1
+cloak_back
+  rotate: false
+  xy: 129, 624
+  size: 413, 385
+  orig: 413, 385
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 757, 462
+  size: 148, 85
+  orig: 148, 85
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 662, 64
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 672, 114
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 843, 315
+  size: 68, 122
+  orig: 68, 122
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 431, 81
+  size: 48, 115
+  orig: 48, 115
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 160, 2
+  size: 31, 110
+  orig: 31, 110
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 958, 880
+  size: 46, 129
+  orig: 46, 129
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 958, 791
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 563, 419
+  size: 179, 191
+  orig: 179, 191
+  offset: 0, 0
+  index: -1
+l_arm_dwn
+  rotate: false
+  xy: 857, 531
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+l_arm_up
+  rotate: false
+  xy: 839, 176
+  size: 75, 124
+  orig: 75, 124
+  offset: 0, 0
+  index: -1
+l_back_deco
+  rotate: false
+  xy: 300, 71
+  size: 116, 125
+  orig: 116, 125
+  offset: 0, 0
+  index: -1
+l_cloth_deco
+  rotate: false
+  xy: 980, 345
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+l_cloth_deco2
+  rotate: false
+  xy: 419, 2
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+l_leg_dwn
+  rotate: false
+  xy: 759, 169
+  size: 65, 132
+  orig: 65, 132
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: true
+  xy: 834, 631
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 980, 318
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 929, 193
+  size: 61, 107
+  orig: 61, 107
+  offset: 0, 0
+  index: -1
+r_arm_dwn
+  rotate: false
+  xy: 857, 398
+  size: 79, 118
+  orig: 79, 118
+  offset: 0, 0
+  index: -1
+r_arm_up
+  rotate: false
+  xy: 563, 6
+  size: 84, 132
+  orig: 84, 132
+  offset: 0, 0
+  index: -1
+r_back_deco
+  rotate: false
+  xy: 160, 48
+  size: 125, 148
+  orig: 125, 148
+  offset: 0, 0
+  index: -1
+r_cloth
+  rotate: true
+  xy: 300, 0
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+r_cloth_deco
+  rotate: true
+  xy: 662, 14
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+r_cloth_deco2
+  rotate: false
+  xy: 380, 0
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+r_leg_dwn
+  rotate: false
+  xy: 759, 316
+  size: 69, 131
+  orig: 69, 131
+  offset: 0, 0
+  index: -1
+skirt1
+  rotate: true
+  xy: 557, 625
+  size: 135, 262
+  orig: 135, 262
+  offset: 0, 0
+  index: -1
+skirt2
+  rotate: false
+  xy: 563, 153
+  size: 94, 251
+  orig: 94, 251
+  offset: 0, 0
+  index: -1
+skirt3
+  rotate: false
+  xy: 672, 164
+  size: 72, 240
+  orig: 72, 240
+  offset: 0, 0
+  index: -1
+skirt4
+  rotate: false
+  xy: 557, 775
+  size: 217, 234
+  orig: 217, 234
+  offset: 0, 0
+  index: -1
+turn_cloak
+  rotate: false
+  xy: 129, 211
+  size: 351, 398
+  orig: 351, 398
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 0, 182
+  size: 114, 827
+  orig: 114, 827
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 495, 5
+  size: 53, 604
+  orig: 53, 604
+  offset: 0, 0
+  index: -1

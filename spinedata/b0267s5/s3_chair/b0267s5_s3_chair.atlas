@@ -1,0 +1,62 @@
+
+b0267s5_S3_chair.png
+size: 396,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chair_back
+  rotate: false
+  xy: 0, 118
+  size: 215, 278
+  orig: 215, 278
+  offset: 0, 0
+  index: -1
+chair_hold_l
+  rotate: false
+  xy: 79, 33
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+chair_hold_r
+  rotate: true
+  xy: 0, 0
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+chair_reel
+  rotate: false
+  xy: 204, 63
+  size: 167, 40
+  orig: 167, 40
+  offset: 0, 0
+  index: -1
+chair_reel1
+  rotate: false
+  xy: 361, 366
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+chair_reel2
+  rotate: false
+  xy: 361, 275
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+chair_reel3
+  rotate: false
+  xy: 361, 321
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+chair_seat
+  rotate: true
+  xy: 230, 133
+  size: 263, 116
+  orig: 263, 116
+  offset: 0, 0
+  index: -1

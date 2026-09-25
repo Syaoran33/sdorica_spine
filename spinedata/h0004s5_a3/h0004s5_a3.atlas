@@ -1,0 +1,279 @@
+
+h0004s5_a3.png
+size: 824,824
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt1
+  rotate: true
+  xy: 283, 222
+  size: 158, 58
+  orig: 158, 58
+  offset: 0, 0
+  index: -1
+belt1_turn
+  rotate: false
+  xy: 360, 330
+  size: 147, 60
+  orig: 147, 60
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 467, 683
+  size: 141, 220
+  orig: 141, 220
+  offset: 0, 0
+  index: -1
+body_turn
+  rotate: true
+  xy: 203, 695
+  size: 129, 249
+  orig: 129, 249
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: false
+  xy: 423, 10
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+ear1_turnback
+  rotate: true
+  xy: 592, 88
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: true
+  xy: 755, 286
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 755, 231
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: false
+  xy: 509, 102
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+eye_turn
+  rotate: true
+  xy: 307, 5
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 197, 395
+  size: 148, 170
+  orig: 148, 170
+  offset: 0, 0
+  index: -1
+face_turn
+  rotate: true
+  xy: 360, 405
+  size: 146, 172
+  orig: 146, 172
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 356, 236
+  size: 79, 127
+  orig: 79, 127
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 0, 610
+  size: 188, 214
+  orig: 188, 214
+  offset: 0, 0
+  index: -1
+hair2_turnback
+  rotate: false
+  xy: 547, 368
+  size: 75, 183
+  orig: 75, 183
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: true
+  xy: 595, 215
+  size: 45, 119
+  orig: 45, 119
+  offset: 0, 0
+  index: -1
+hair6_turnback
+  rotate: false
+  xy: 736, 363
+  size: 75, 183
+  orig: 75, 183
+  offset: 0, 0
+  index: -1
+head_turnback
+  rotate: true
+  xy: 0, 381
+  size: 214, 182
+  orig: 214, 182
+  offset: 0, 0
+  index: -1
+headwear
+  rotate: true
+  xy: 702, 561
+  size: 181, 121
+  orig: 181, 121
+  offset: 0, 0
+  index: -1
+l_calf
+  rotate: false
+  xy: 207, 2
+  size: 85, 169
+  orig: 85, 169
+  offset: 0, 0
+  index: -1
+l_forearm
+  rotate: true
+  xy: 637, 275
+  size: 65, 103
+  orig: 65, 103
+  offset: 0, 0
+  index: -1
+l_thigh
+  rotate: false
+  xy: 307, 53
+  size: 101, 154
+  orig: 101, 154
+  offset: 0, 0
+  index: -1
+l_upperarm
+  rotate: true
+  xy: 702, 757
+  size: 67, 122
+  orig: 67, 122
+  offset: 0, 0
+  index: -1
+mouth_close
+  rotate: false
+  xy: 365, 22
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 503, 7
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 522, 292
+  size: 61, 100
+  orig: 61, 100
+  offset: 0, 0
+  index: -1
+r_calf
+  rotate: false
+  xy: 116, 1
+  size: 76, 162
+  orig: 76, 162
+  offset: 0, 0
+  index: -1
+r_forearn
+  rotate: false
+  xy: 423, 105
+  size: 71, 116
+  orig: 71, 116
+  offset: 0, 0
+  index: -1
+r_thigh
+  rotate: false
+  xy: 0, 0
+  size: 101, 163
+  orig: 101, 163
+  offset: 0, 0
+  index: -1
+r_upperarm
+  rotate: false
+  xy: 509, 163
+  size: 71, 114
+  orig: 71, 114
+  offset: 0, 0
+  index: -1
+scarf1
+  rotate: false
+  xy: 595, 153
+  size: 105, 47
+  orig: 105, 47
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: true
+  xy: 0, 178
+  size: 188, 176
+  orig: 188, 176
+  offset: 0, 0
+  index: -1
+scarf3
+  rotate: false
+  xy: 427, 566
+  size: 188, 102
+  orig: 188, 102
+  offset: 0, 0
+  index: -1
+scarf_turn
+  rotate: true
+  xy: 630, 568
+  size: 100, 49
+  orig: 100, 49
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 203, 580
+  size: 209, 100
+  orig: 209, 100
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 191, 186
+  size: 77, 180
+  orig: 77, 180
+  offset: 0, 0
+  index: -1
+weapon1_a
+  rotate: false
+  xy: 690, 92
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 637, 355
+  size: 84, 191
+  orig: 84, 191
+  offset: 0, 0
+  index: -1
+weapon2_a
+  rotate: false
+  xy: 503, 40
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1

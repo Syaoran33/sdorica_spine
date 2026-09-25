@@ -1,0 +1,55 @@
+
+h0261s5_figure.png
+size: 731,731
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+figure2
+  rotate: false
+  xy: 0, 209
+  size: 358, 522
+  orig: 358, 522
+  offset: 0, 0
+  index: -1
+figure3
+  rotate: true
+  xy: 373, 41
+  size: 207, 253
+  orig: 207, 253
+  offset: 0, 0
+  index: -1
+figure4
+  rotate: false
+  xy: 0, 83
+  size: 161, 111
+  orig: 161, 111
+  offset: 0, 0
+  index: -1
+figure5
+  rotate: true
+  xy: 630, 300
+  size: 185, 62
+  orig: 185, 62
+  offset: 0, 0
+  index: -1
+figure6
+  rotate: false
+  xy: 176, 95
+  size: 144, 99
+  orig: 144, 99
+  offset: 0, 0
+  index: -1
+figure6_2
+  rotate: false
+  xy: 373, 263
+  size: 242, 222
+  orig: 242, 222
+  offset: 0, 0
+  index: -1
+pieces6
+  rotate: false
+  xy: 373, 500
+  size: 358, 231
+  orig: 358, 231
+  offset: 0, 0
+  index: -1

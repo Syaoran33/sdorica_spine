@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pydorica · Spine 工作台</title>
+<link rel="stylesheet" href="app/style.css">
+</head>
+<body>
+<header>
+  <h1>Pydorica <span>Spine 工作台</span></h1>
+  <div id="title"></div>
+  <div id="hint">滚轮缩放 · 拖动平移 · 双击复位 · 空格播放 · ←→ 单帧 · B/F 切动画 · R 复位</div>
+</header>
+
+<main>
+  <aside id="roster">
+    <input id="search" type="search" placeholder="角色名 / skin id…" autocomplete="off">
+    <div id="filters">
+      <button data-tier="all" class="on">全部</button>
+      <button data-tier="black">黑位</button>
+      <button data-tier="gold">金位</button>
+      <button data-tier="white">白位</button>
+    </div>
+    <div id="list"></div>
+  </aside>
+
+  <section id="stage">
+    <div id="panes">
+      <figure class="pane" data-side="v32">
+        <figcaption><b>3.7 runtime</b> · 3.2 json<span class="facts"></span></figcaption>
+        <div class="frame"><canvas></canvas></div>
+      </figure>
+      <figure class="pane" data-side="v42">
+        <figcaption><b>4.2 runtime</b> · 4.2 json<span class="facts"></span></figcaption>
+        <div class="frame"><canvas></canvas></div>
+      </figure>
+    </div>
+
+    <div id="transport">
+      <button id="prev-anim" title="B">◤</button>
+      <button id="back" title="←">⏮</button>
+      <button id="play" class="wide">▶ 播放</button>
+      <button id="forth" title="→">⏭</button>
+      <button id="next-anim" title="F">◢</button>
+      <input id="scrub" type="range" min="0" max="0" step="1" value="0">
+      <label class="clock"><input id="frame" type="number" min="0" value="0">/<span id="total">0</span>帧
+        <span id="seconds"></span></label>
+      <select id="anim"></select>
+      <select id="speed">
+        <option value="0.25">0.25×</option>
+        <option value="0.5">0.5×</option>
+        <option value="1" selected>1×</option>
+        <option value="2">2×</option>
+      </select>
+      <label><input id="loop" type="checkbox" checked> 循环</label>
+      <label><input id="debug" type="checkbox"> 骨骼</label>
+      <label><input id="sync" type="checkbox" checked> 视角联动</label>
+      <button id="fit">复位</button>
+    </div>
+  </section>
+
+  <aside id="inspector">
+    <h2>图集 <small id="pagesize"></small></h2>
+    <canvas id="sheet"></canvas>
+    <div id="region-list"></div>
+  </aside>
+</main>
+
+<p id="loading">载入 runtime…</p>
+<script type="module" src="app/main.js"></script>
+</body>
+</html>

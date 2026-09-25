@@ -1,0 +1,62 @@
+
+t0272s5_flower.png
+size: 658,658
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s3_flower1
+  rotate: false
+  xy: 0, 335
+  size: 229, 323
+  orig: 229, 323
+  offset: 0, 0
+  index: -1
+s3_flower2
+  rotate: false
+  xy: 0, 6
+  size: 216, 314
+  orig: 216, 314
+  offset: 0, 0
+  index: -1
+s3_flower3
+  rotate: true
+  xy: 461, 390
+  size: 268, 157
+  orig: 268, 157
+  offset: 0, 0
+  index: -1
+s3_flower4
+  rotate: true
+  xy: 450, 119
+  size: 256, 189
+  orig: 256, 189
+  offset: 0, 0
+  index: -1
+s3_flower5
+  rotate: true
+  xy: 244, 390
+  size: 268, 202
+  orig: 268, 202
+  offset: 0, 0
+  index: -1
+s3_flower6
+  rotate: true
+  xy: 231, 16
+  size: 304, 204
+  orig: 304, 204
+  offset: 0, 0
+  index: -1
+s3_pistil1
+  rotate: true
+  xy: 450, 3
+  size: 101, 95
+  orig: 101, 95
+  offset: 0, 0
+  index: -1
+s3_pistil2
+  rotate: true
+  xy: 560, 19
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1

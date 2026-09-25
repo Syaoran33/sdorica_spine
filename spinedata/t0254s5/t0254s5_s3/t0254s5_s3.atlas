@@ -1,0 +1,104 @@
+
+t0254s5_S3.png
+size: 2011,2011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+accessories
+  rotate: false
+  xy: 1096, 1479
+  size: 639, 532
+  orig: 639, 532
+  offset: 0, 0
+  index: -1
+belt_accessories
+  rotate: false
+  xy: 442, 34
+  size: 133, 152
+  orig: 133, 152
+  offset: 0, 0
+  index: -1
+bip
+  rotate: false
+  xy: 0, 774
+  size: 1379, 426
+  orig: 1379, 426
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 0, 1215
+  size: 1081, 796
+  orig: 1081, 796
+  offset: 0, 0
+  index: -1
+gourd
+  rotate: true
+  xy: 1682, 931
+  size: 500, 316
+  orig: 500, 316
+  offset: 0, 0
+  index: -1
+gourd_rope
+  rotate: false
+  xy: 0, 29
+  size: 427, 157
+  orig: 427, 157
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 1295, 66
+  size: 691, 342
+  orig: 691, 342
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: true
+  xy: 1394, 772
+  size: 692, 273
+  orig: 692, 273
+  offset: 0, 0
+  index: -1
+hat_front
+  rotate: false
+  xy: 0, 201
+  size: 725, 558
+  orig: 725, 558
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1096, 1249
+  size: 274, 215
+  orig: 274, 215
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 1682, 542
+  size: 374, 309
+  orig: 374, 309
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 740, 221
+  size: 540, 538
+  orig: 540, 538
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 1750, 1446
+  size: 261, 565
+  orig: 261, 565
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 1652, 153
+  size: 374, 291
+  orig: 374, 291
+  offset: 0, 0
+  index: -1

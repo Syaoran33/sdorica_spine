@@ -1,0 +1,20 @@
+
+h0268s5_cookie.png
+size: 1002,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s3_oreo1
+  rotate: false
+  xy: 0, 0
+  size: 554, 503
+  orig: 554, 503
+  offset: 0, 0
+  index: -1
+s3_oreo2
+  rotate: false
+  xy: 0, 518
+  size: 591, 484
+  orig: 591, 484
+  offset: 0, 0
+  index: -1

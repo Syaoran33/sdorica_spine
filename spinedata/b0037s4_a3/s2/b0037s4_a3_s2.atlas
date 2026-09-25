@@ -1,0 +1,230 @@
+
+b0037s4_a3_S2.png
+size: 654,654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 0, 385
+  size: 291, 269
+  orig: 291, 269
+  offset: 0, 0
+  index: -1
+chesthair
+  rotate: false
+  xy: 482, 59
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 0, 65
+  size: 305, 108
+  orig: 305, 108
+  offset: 0, 0
+  index: -1
+collar
+  rotate: false
+  xy: 268, 97
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 306, 550
+  size: 238, 104
+  orig: 238, 104
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: true
+  xy: 123, 132
+  size: 238, 104
+  orig: 238, 104
+  offset: 0, 0
+  index: -1
+goggle
+  rotate: false
+  xy: 306, 437
+  size: 214, 98
+  orig: 214, 98
+  offset: 0, 0
+  index: -1
+l_collar
+  rotate: false
+  xy: 494, 264
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: true
+  xy: 523, 7
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+l_eye_close
+  rotate: false
+  xy: 268, 12
+  size: 48, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+l_eye_close1
+  rotate: false
+  xy: 331, 32
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+l_eye_pity
+  rotate: true
+  xy: 592, 132
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+l_eye_pity1
+  rotate: false
+  xy: 161, 1
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+l_eye_socket
+  rotate: true
+  xy: 399, 47
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+l_eye_socket_pity
+  rotate: true
+  xy: 499, 110
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+l_eyebrow
+  rotate: false
+  xy: 123, 0
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+l_horn
+  rotate: true
+  xy: 328, 110
+  size: 138, 156
+  orig: 138, 156
+  offset: 0, 0
+  index: -1
+l_wing_turn
+  rotate: false
+  xy: 123, 36
+  size: 130, 81
+  orig: 130, 81
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 629, 481
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+mouth_pity
+  rotate: true
+  xy: 85, 5
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+r_collar
+  rotate: true
+  xy: 242, 145
+  size: 225, 71
+  orig: 225, 71
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: false
+  xy: 592, 184
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+r_eye_close
+  rotate: false
+  xy: 574, 349
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+r_eye_close1
+  rotate: true
+  xy: 494, 333
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+r_eye_pity
+  rotate: false
+  xy: 593, 270
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+r_eye_socket
+  rotate: false
+  xy: 499, 172
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+r_eye_socket_pity
+  rotate: false
+  xy: 535, 443
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+r_eye_socket_pity1
+  rotate: true
+  xy: 482, 0
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+r_eyebrow
+  rotate: false
+  xy: 399, 6
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+r_horn
+  rotate: false
+  xy: 328, 263
+  size: 151, 159
+  orig: 151, 159
+  offset: 0, 0
+  index: -1
+r_strap
+  rotate: false
+  xy: 0, 1
+  size: 70, 49
+  orig: 70, 49
+  offset: 0, 0
+  index: -1
+r_wing
+  rotate: false
+  xy: 559, 542
+  size: 91, 112
+  orig: 91, 112
+  offset: 0, 0
+  index: -1

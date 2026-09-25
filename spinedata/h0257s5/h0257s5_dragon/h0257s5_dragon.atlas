@@ -1,0 +1,83 @@
+
+h0257s5_dragon.png
+size: 2029,2029
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_hand_1
+  rotate: false
+  xy: 1319, 917
+  size: 509, 366
+  orig: 509, 366
+  offset: 0, 0
+  index: -1
+dragon_hand_2
+  rotate: false
+  xy: 1843, 1117
+  size: 123, 118
+  orig: 123, 118
+  offset: 0, 0
+  index: -1
+dragon_head
+  rotate: false
+  xy: 1268, 173
+  size: 310, 617
+  orig: 310, 617
+  offset: 0, 0
+  index: -1
+dragon_horn_B
+  rotate: true
+  xy: 1593, 154
+  size: 117, 323
+  orig: 117, 323
+  offset: 0, 0
+  index: -1
+dragon_horn_F
+  rotate: false
+  xy: 1845, 1628
+  size: 149, 401
+  orig: 149, 401
+  offset: 0, 0
+  index: -1
+dragon_jaw_1
+  rotate: false
+  xy: 1593, 286
+  size: 263, 616
+  orig: 263, 616
+  offset: 0, 0
+  index: -1
+dragon_jaw_2
+  rotate: false
+  xy: 1845, 1250
+  size: 148, 363
+  orig: 148, 363
+  offset: 0, 0
+  index: -1
+dragon_neck
+  rotate: false
+  xy: 0, 805
+  size: 1304, 1224
+  orig: 1304, 1224
+  offset: 0, 0
+  index: -1
+dragon_tail_B
+  rotate: true
+  xy: 1319, 1298
+  size: 731, 511
+  orig: 731, 511
+  offset: 0, 0
+  index: -1
+dragon_tail_F
+  rotate: false
+  xy: 0, 0
+  size: 1253, 790
+  orig: 1253, 790
+  offset: 0, 0
+  index: -1
+dragon_tongue
+  rotate: true
+  xy: 1268, 27
+  size: 131, 298
+  orig: 131, 298
+  offset: 0, 0
+  index: -1
